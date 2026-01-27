@@ -89,15 +89,16 @@ These are companies in Vienna, who have been offering MTD internships or hiring 
 
 ### Remaining Austria
 
-These are companies in remaining parts of Austria, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
+These are companies in Austria, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
 
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
+- [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
 - [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
+- [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
+- [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
+- [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
 - [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
 - [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
-- [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
-- [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
-- [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 
 ### Germany
 
