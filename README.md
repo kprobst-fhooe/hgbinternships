@@ -54,6 +54,7 @@ These are companies in Linz, who have been offering MTD internships or hiring in
 - [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/) (Linz)
 - [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/) (Linz)
 - [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all) (Linz)
+- [Rosenbauer](https://www.linkedin.com/company/rosenbauer-group/) (Leonding)
 
 ### Salzburg
 
@@ -86,6 +87,7 @@ These are companies in Vienna, who have been offering MTD internships or hiring 
 - [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/) (Vienna)
 - [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/) (Vienna)
 - [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/) (Vienna)
+- [refurbed](https://www.linkedin.com/company/refurbed/) (Vienna)
 
 ### Remaining Austria
 
