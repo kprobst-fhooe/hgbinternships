@@ -40,6 +40,8 @@ These are companies in Hagenberg, who have been offering MTD internships or hiri
 
 These are companies in Linz, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
 
+- [Blockpit](https://www.linkedin.com/company/blockpit/) (Linz)
+- [Lamie](https://www.linkedin.com/company/lamie-direkt/) (Linz)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
 - [Tractive](https://www.linkedin.com/company/tractive) (Linz)
 - [presono](https://www.linkedin.com/company/presono/) (Pasching)
@@ -88,6 +90,7 @@ These are companies in Vienna, who have been offering MTD internships or hiring 
 - [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/) (Vienna)
 - [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/) (Vienna)
 - [refurbed](https://www.linkedin.com/company/refurbed/) (Vienna)
+- [mySugr](https://www.linkedin.com/company/mysugr/) (Vienna)
 
 ### Remaining Austria
 
@@ -117,9 +120,10 @@ These are companies in Germany, who have been hiring in the UI/UX domain in the 
 
 These are companies in Europe, who have been hiring in the UI/UX domain in the past few months:
 
-- [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund, Denmark)
-- [WSA - Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge, Denmark)
-- [Mobypark](https://www.linkedin.com/company/mobypark/) (Amsterdam, Netherlands)
+- [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund)
+- [WSA - Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
+- [Mobypark](https://www.linkedin.com/company/mobypark/) (Amsterdam)
+- [Wolt](https://www.linkedin.com/company/wolt-oy/) (Helsinki, Stockholm, Berlin, Barcelona)
 
 
 ## Internship Offers
