@@ -36,11 +36,18 @@ These are my personal favorites, where I have personal connections or positive e
 
 These are companies in Austria, who have been hiring in the UI/UX domain in the past few months:
 
+- [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/) (Hagenberg)
+- [Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/) (Hagenberg)
 - [SlideLizard](https://www.linkedin.com/company/slidelizard/) (Linz)
 - [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/) (Linz)
 - [Storyblok](https://www.linkedin.com/company/storyblok/) (Linz)
 - [Storyclash](https://www.linkedin.com/company/storyclash/) (Linz)
 - [Roomle](https://www.linkedin.com/company/roomle/) (Linz)
+- [Lunik2](https://www.linkedin.com/company/lunik2-group/) (Linz)
+- [REICHLUNDPARTNER Digital](https://www.linkedin.com/company/rupdigital/) (Linz)
+- [Life Radio](https://www.linkedin.com/company/liferadio/) (Linz)
+- [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/) (Linz)
+- [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Speechify](https://www.linkedin.com/company/speechifyinc/) (Vienna)
 - [pixelart](https://www.linkedin.com/company/pixelart-gmbh/) (Bergheim)
 - [Journi](https://www.linkedin.com/company/journiapp/) (Vienna)
@@ -67,6 +74,9 @@ These are companies in Austria, who have been hiring in the UI/UX domain in the 
 - [Functn](https://www.linkedin.com/company/functn/) (Vienna)
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 - [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/) (Vienna)
+- [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/) (Vienna)
+- [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
+- [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/) (Vienna)
 
 ### Germany
 
@@ -77,6 +87,7 @@ These are companies in Germany, who have been hiring in the UI/UX domain in the 
 - [dexter health](https://www.linkedin.com/company/dexter-health/) (Köln)
 - [Louco](https://www.linkedin.com/company/loucoapp/) (Frankfurt)
 - [CrazyLabs](https://www.linkedin.com/company/crazylabs) (Berlin)
+- [RAVE.SPACE](https://www.linkedin.com/company/ravespaceio/) (Berlin)
 
 ### Europe
 
@@ -84,6 +95,7 @@ These are companies in Europe, who have been hiring in the UI/UX domain in the p
 
 - [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund, Denmark)
 - [WSA - Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge, Denmark)
+- [Mobypark](https://www.linkedin.com/company/mobypark/) (Amsterdam, Netherlands)
 
 
 ## Internship Offers
