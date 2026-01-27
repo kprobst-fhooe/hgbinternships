@@ -23,8 +23,8 @@ These are my personal favorites, where I have personal connections or positive e
 
 - [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels): founded by MTD graduates, interns always welcome (programming + UX/UI)
 - [OKTAV](https://www.linkedin.com/company/oktav-com) (Linz): my former employer, interns always welcome (UX/UI + programming)
-- [KEBA](https://www.linkedin.com/company/keba-group) (Linz): we've had recent collaborations in student projects, students doing internships there (UX/UI + programming)
-- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen: we've had recent collaborations in student projects, students doing internships there (UX/UI + programming)
+- [KEBA](https://www.linkedin.com/company/keba-group) (Linz): we've had collaborations in student projects, students doing internships there (UX/UI + programming)
+- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen): we've had collaborations in student projects, students doing internships there (UX/UI + programming)
 - [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz): MTD lecturers and graduates working there, interns always welcome (UX/UI + programming)
 - [Salzburg Research](https://www.linkedin.com/company/salzburg-research) (Salzburg): we've had students doing internships there (UX/UI + programming)
 
