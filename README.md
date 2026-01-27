@@ -126,12 +126,13 @@ These are companies in Europe, who have been hiring in the UI/UX domain in the p
 
 The following list contains concrete offers for internships, which may be outdated by now but still be reopened at some point:
 
-- [UX Design Intern, Liebherr, Ulm](https://www.linkedin.com/jobs/view/4365843451/?eBP=NON_CHARGEABLE_CHANNEL&refId=dqnTP0kN17MhKF7dmri2Aw%3D%3D&trackingId=6yihobITUbAjyoWiLQdweQ%3D%3D)
-- [Product Design Intern, Microsoft, Dublin](https://www.linkedin.com/jobs/view/4328718795/?trk=flagship3_job_home_savedjobs&refId=6fac731c-1763-476d-87de-81f44f939de8&trackingId=9OIf6Dm7TN%2BHWW0ZoK9zvw%3D%3D)
-- [Interaction Design Internship, LEGO, Billund](https://www.linkedin.com/jobs/view/4307537779/?trk=flagship3_job_home_savedjobs&refId=7fd33bad-1b90-4f69-93fb-9a5f263cac4a&trackingId=vqClG%2BwFQm%2BTZDZBFZGlYQ%3D%3D)
-- [Praktikum UX/UI Konzept & Produktdesign, Porsche, Salzburg](https://www.linkedin.com/jobs/view/4338937729/?trk=flagship3_job_home_savedjobs&refId=1052915d-1b8a-4725-9e85-79287c30a7a5&trackingId=nPEoybgeQpmJVqsjSY%2B0Zw%3D%3D)
-- [UX Design and Research Intern, Team Viewer, Göppingen](https://www.linkedin.com/jobs/view/4359455733/?trk=flagship3_job_home_archivedjobs&refId=3f6b14b2-76e6-4ab7-9e2b-df79348da2d1&trackingId=Sde94RLAQ4u%2BOxQM9gRAwQ%3D%3D)
-- [Internship UX Design, Braun, Tuttlingen](https://www.linkedin.com/jobs/view/4349519923/?trk=flagship3_job_home_archivedjobs&refId=fdb9ccae-6df3-4f66-b229-8ec3f540d675&trackingId=2gmxsGPXTsipZpDmDmn0hw%3D%3D)
-- [Internship UX/UI Design, Louco, Frankfurt](https://www.linkedin.com/jobs/view/4349923662/?trk=flagship3_job_home_archivedjobs&refId=b39972d1-b912-4949-9dec-de183b006185&trackingId=jZByA2BXRfexHTZc2p%2BZHQ%3D%3D)
-- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4296209872/?trk=flagship3_job_home_archivedjobs&refId=d61de918-bbca-499e-8444-11833b7bf4f9&trackingId=6ypywQEVQ16PiIZ9JvRUsg%3D%3D)
-- [Praktikum UX Design und Research, Bosch, Abstatt](https://www.linkedin.com/jobs/view/4259592666/?trk=flagship3_job_home_archivedjobs&refId=d0d4911c-4f94-4d4f-9c1e-639b566de99b&trackingId=1J%2BRpoP3RMy4DKcym%2BfFsg%3D%3D)
+- [Praktikum UI/UX Design, Bosch, Munich](https://www.linkedin.com/jobs/view/4321054839)
+- [Working Student UX/UI Design, 433, Amsterdam](https://www.linkedin.com/jobs/view/4365391457)
+- [UX Design Intern, Liebherr, Ulm](https://www.linkedin.com/jobs/view/4365843451)
+- [Product Design Intern, Microsoft, Dublin](https://www.linkedin.com/jobs/view/4328718795/)
+- [Interaction Design Internship, LEGO, Billund](https://www.linkedin.com/jobs/view/4307537779/)
+- [Praktikum UX/UI Konzept & Produktdesign, Porsche, Salzburg](https://www.linkedin.com/jobs/view/4338937729/)
+- [UX Design and Research Intern, Team Viewer, Göppingen](https://www.linkedin.com/jobs/view/4359455733/)
+- [Internship UX Design, Braun, Tuttlingen](https://www.linkedin.com/jobs/view/4349519923/)
+- [Internship UX/UI Design, Louco, Frankfurt](https://www.linkedin.com/jobs/view/4349923662/)
+- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4296209872/)
