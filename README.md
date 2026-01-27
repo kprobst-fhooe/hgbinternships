@@ -25,19 +25,24 @@ These are my personal favorites, where I have personal connections or positive e
 - [OKTAV](https://www.linkedin.com/company/oktav-com) (Linz): my former employer, interns always welcome (UX/UI + programming)
 - [KEBA](https://www.linkedin.com/company/keba-group) (Linz): we've had recent collaborations in student projects, students doing internships there (UX/UI + programming)
 - [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen: we've had recent collaborations in student projects, students doing internships there (UX/UI + programming)
-- [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz): MTD graduates working there, interns always welcome (UX/UI + programming)
+- [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz): MTD lecturers and graduates working there, interns always welcome (UX/UI + programming)
 - [Salzburg Research](https://www.linkedin.com/company/salzburg-research) (Salzburg): we've had students doing internships there (UX/UI + programming)
-- [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding): we've had students doing internships there (UX/UI + programming)
-- [Tractive](https://www.linkedin.com/company/tractive) (Linz): founded by an MTD graduate
-- [presono](https://www.linkedin.com/company/presono/) (Pasching): founded by an MTD graduate
 
 
-### Austria
+### Hagenberg
 
-These are companies in Austria, who have been hiring in the UI/UX domain in the past few months:
+These are companies in Hagenberg, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
 
 - [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/) (Hagenberg)
 - [Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/) (Hagenberg)
+
+### Linz
+
+These are companies in Linz, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
+
+- [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
+- [Tractive](https://www.linkedin.com/company/tractive) (Linz)
+- [presono](https://www.linkedin.com/company/presono/) (Pasching)
 - [SlideLizard](https://www.linkedin.com/company/slidelizard/) (Linz)
 - [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/) (Linz)
 - [Storyblok](https://www.linkedin.com/company/storyblok/) (Linz)
@@ -47,36 +52,52 @@ These are companies in Austria, who have been hiring in the UI/UX domain in the 
 - [REICHLUNDPARTNER Digital](https://www.linkedin.com/company/rupdigital/) (Linz)
 - [Life Radio](https://www.linkedin.com/company/liferadio/) (Linz)
 - [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/) (Linz)
-- [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
-- [Speechify](https://www.linkedin.com/company/speechifyinc/) (Vienna)
-- [pixelart](https://www.linkedin.com/company/pixelart-gmbh/) (Bergheim)
-- [Journi](https://www.linkedin.com/company/journiapp/) (Vienna)
 - [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/) (Linz)
+- [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all) (Linz)
+
+### Salzburg
+
+These are companies in Salzburg, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
+
+- [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/) (Salzburg)
+- [pixelart](https://www.linkedin.com/company/pixelart-gmbh/) (Bergheim)
 - [Porsche](https://www.linkedin.com/company/porsche-holding) (Salzburg)
 - [KISKA](https://www.linkedin.com/company/kiska) (Salzburg)
+- [Solid & Bold](https://www.linkedin.com/company/solidbold/) (Salzburg)
+
+### Vienna
+
+These are companies in Vienna, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
+
 - [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/) (Vienna)
+- [Journi](https://www.linkedin.com/company/journiapp/) (Vienna)
+- [Speechify](https://www.linkedin.com/company/speechifyinc/) (Vienna)
 - [adesso Austria](https://www.linkedin.com/company/adesso-austria-gmbh/) (Vienna)
-- [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
 - [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/) (Vienna)
 - [BIPA](https://www.linkedin.com/company/bipaparfumierengesellschaftmbh/) (Wiener Neudorf)
 - [University of Vienna](https://www.linkedin.com/school/univienna/) (Vienna)
-- [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/) (Salzburg)
-- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
 - [WienIT](https://www.linkedin.com/company/wienit/life/9f134e73-76b6-42bd-a83c-618b705ab6c8/) (Vienna)
 - [woom](https://www.linkedin.com/company/woombikes/) (Vienna)
 - [fonio.ai](https://www.linkedin.com/company/fonio-ai/) (Vienna)
-- [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
 - [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/) (Vienna)
 - [hokify](https://www.linkedin.com/company/hokify/) (Vienna)
-- [Solid & Bold](https://www.linkedin.com/company/solidbold/) (Salzburg)
-- [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
 - [world4you](https://www.linkedin.com/company/world4you/) (Vienna)
 - [Functn](https://www.linkedin.com/company/functn/) (Vienna)
-- [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 - [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/) (Vienna)
 - [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/) (Vienna)
-- [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
 - [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/) (Vienna)
+
+### Remaining Austria
+
+These are companies in remaining parts of Austria, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
+
+- [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
+- [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
+- [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
+- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
+- [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
+- [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
+- [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 
 ### Germany
 
