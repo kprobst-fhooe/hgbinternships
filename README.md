@@ -14,7 +14,7 @@ Over the past few years, I have compiled this guide based on my own experiences 
 Within your application journey, I can furthermore recommend the following:
 
 - start with creating a professional CV and portfolio that highlight your experience
-- have all this represented in a [professional LinkedIn profile](https://www.linkedin.com/help/linkedin/answer/a554351), which not only helps you find companies in the job offers, but also companies finding YOU
+- have all this represented in a [professional LinkedIn profile](https://www.linkedin.com/business/sales/blog/profile-best-practices/17-steps-to-a-better-linkedin-profile-in-2017), which not only helps you find companies in the job offers, but also companies finding YOU
 
 
 ## Internship Offers
