@@ -8,7 +8,7 @@ Over the past few years, I have compiled this guide based on my own experiences 
 ## Application
 
 **First off, I recommend writing lots of applications, min. 20!** \
-**Be prepared that many companies will take time to reply, or will not reply at all to your application.** 
+**Be prepared that many companies will take time to reply, or will not reply at all to your application.** \
 **If they haven't replied to your application after 3-4 weeks or so, don't hesitate to send them a gentle reminder.**
 
 
