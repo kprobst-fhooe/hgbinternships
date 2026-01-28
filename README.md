@@ -10,36 +10,39 @@ Over the past few years, I have compiled this guide based on my own experiences 
 **First off, I recommend writing lots of applications, min. 30!** \
 **Be prepared that many companies will take time to reply, or will not reply at all to your application.** 
 
-tbd
+
+
+
+## Internship Offers
+
+The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
+
+- [Praktikum UI/UX Design, Bosch, Munich](https://www.linkedin.com/jobs/view/4321054839)
+- [Working Student UX/UI Design, 433, Amsterdam](https://www.linkedin.com/jobs/view/4365391457)
+- [UX Design Intern, Liebherr, Ulm](https://www.linkedin.com/jobs/view/4365843451)
+- [Product Design Intern, Microsoft, Dublin](https://www.linkedin.com/jobs/view/4328718795/)
+- [Interaction Design Internship, LEGO, Billund](https://www.linkedin.com/jobs/view/4307537779/)
+- [Praktikum UX/UI Konzept & Produktdesign, Porsche, Salzburg](https://www.linkedin.com/jobs/view/4338937729/)
+- [UX Design and Research Intern, Team Viewer, Göppingen](https://www.linkedin.com/jobs/view/4359455733/)
+- [Internship UX Design, Braun, Tuttlingen](https://www.linkedin.com/jobs/view/4349519923/)
+- [Internship UX/UI Design, Louco, Frankfurt](https://www.linkedin.com/jobs/view/4349923662/)
+- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4296209872/)
 
 
 ## Company List
 
-The following list contains companies that students from our university have successfully applied to, or that I have found actively recruiting for jobs in the UX domain:
-
-### Favorites (personal contact / experience)
-
-These are my personal favorites, where I have personal connections or positive experiences:
-
-- [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels): founded by MTD graduates, interns always welcome (programming + UX/UI)
-- [OKTAV](https://www.linkedin.com/company/oktav-com) (Linz): my former employer, interns always welcome (UX/UI + programming)
-- [KEBA](https://www.linkedin.com/company/keba-group) (Linz): we've had collaborations in student projects, students doing internships there (UX/UI + programming)
-- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen): we've had collaborations in student projects, students doing internships there (UX/UI + programming)
-- [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz): MTD lecturers and graduates working there, interns always welcome (UX/UI + programming)
-- [Salzburg Research](https://www.linkedin.com/company/salzburg-research) (Salzburg): we've had students doing internships there (UX/UI + programming)
-
+The following lists contain companies that students from our university have successfully applied to, or that I have found actively recruiting for jobs in the UX/UI or frontend development domains in the past few months:
 
 ### Hagenberg
-
-These are companies in Hagenberg, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
 
 - [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/) (Hagenberg)
 - [Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/) (Hagenberg)
 
 ### Linz
 
-These are companies in Linz, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
-
+- [OKTAV](https://www.linkedin.com/company/oktav-com) (Linz)
+- [KEBA](https://www.linkedin.com/company/keba-group) (Linz)
+- [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz)
 - [Blockpit](https://www.linkedin.com/company/blockpit/) (Linz)
 - [Lamie](https://www.linkedin.com/company/lamie-direkt/) (Linz)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
@@ -60,8 +63,7 @@ These are companies in Linz, who have been offering MTD internships or hiring in
 
 ### Salzburg
 
-These are companies in Salzburg, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
-
+- [Salzburg Research](https://www.linkedin.com/company/salzburg-research) (Salzburg)
 - [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/) (Salzburg)
 - [pixelart](https://www.linkedin.com/company/pixelart-gmbh/) (Bergheim)
 - [Porsche](https://www.linkedin.com/company/porsche-holding) (Salzburg)
@@ -69,8 +71,6 @@ These are companies in Salzburg, who have been offering MTD internships or hirin
 - [Solid & Bold](https://www.linkedin.com/company/solidbold/) (Salzburg)
 
 ### Vienna
-
-These are companies in Vienna, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
 
 - [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/) (Vienna)
 - [Journi](https://www.linkedin.com/company/journiapp/) (Vienna)
@@ -94,8 +94,8 @@ These are companies in Vienna, who have been offering MTD internships or hiring 
 
 ### Remaining Austria
 
-These are companies in Austria, who have been offering MTD internships or hiring in the UI/UX domain in the past few months:
-
+- [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels)
+- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
 - [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
@@ -108,8 +108,6 @@ These are companies in Austria, who have been offering MTD internships or hiring
 
 ### Germany
 
-These are companies in Germany, who have been hiring in the UI/UX domain in the past few months:
-
 - [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e/) (Berlin)
 - [brightside Studio](https://www.linkedin.com/company/brightside-berlin/) (Berlin)
 - [dexter health](https://www.linkedin.com/company/dexter-health/) (Köln)
@@ -119,25 +117,8 @@ These are companies in Germany, who have been hiring in the UI/UX domain in the 
 
 ### Europe
 
-These are companies in Europe, who have been hiring in the UI/UX domain in the past few months:
-
 - [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund)
-- [WSA - Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
+- [Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
 - [Mobypark](https://www.linkedin.com/company/mobypark/) (Amsterdam)
 - [Wolt](https://www.linkedin.com/company/wolt-oy/) (Helsinki, Stockholm, Berlin, Barcelona)
 
-
-## Internship Offers
-
-The following list contains concrete offers for internships, which may be outdated by now but still be reopened at some point:
-
-- [Praktikum UI/UX Design, Bosch, Munich](https://www.linkedin.com/jobs/view/4321054839)
-- [Working Student UX/UI Design, 433, Amsterdam](https://www.linkedin.com/jobs/view/4365391457)
-- [UX Design Intern, Liebherr, Ulm](https://www.linkedin.com/jobs/view/4365843451)
-- [Product Design Intern, Microsoft, Dublin](https://www.linkedin.com/jobs/view/4328718795/)
-- [Interaction Design Internship, LEGO, Billund](https://www.linkedin.com/jobs/view/4307537779/)
-- [Praktikum UX/UI Konzept & Produktdesign, Porsche, Salzburg](https://www.linkedin.com/jobs/view/4338937729/)
-- [UX Design and Research Intern, Team Viewer, Göppingen](https://www.linkedin.com/jobs/view/4359455733/)
-- [Internship UX Design, Braun, Tuttlingen](https://www.linkedin.com/jobs/view/4349519923/)
-- [Internship UX/UI Design, Louco, Frankfurt](https://www.linkedin.com/jobs/view/4349923662/)
-- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4296209872/)
