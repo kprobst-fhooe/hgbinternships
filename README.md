@@ -30,94 +30,98 @@ The following list contains specific offers for internships, which may be outdat
 
 ## Company List
 
-The following lists contain companies that students from our university have successfully applied to, or that I have found actively recruiting for jobs in the UX/UI or frontend development domains in the past few months:
+The following lists contain companies that students from our university have successfully applied to, or that I have found actively recruiting for jobs in the UX/UI or frontend development domains in the past few months.
+
+Companies with recent MTD internships are indicated in **bold**, my personal favorites are indicated with ⭐
 
 ### Hagenberg
 
-- [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/) (Hagenberg)
-- [Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/) (Hagenberg)
+- [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/)
+- **[Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/)**
 
 ### Linz
 
-- [OKTAV](https://www.linkedin.com/company/oktav-com) (Linz)
-- [KEBA](https://www.linkedin.com/company/keba-group) (Linz)
-- [netural](https://www.linkedin.com/company/netural-gmbh/) (Linz)
-- [Blockpit](https://www.linkedin.com/company/blockpit/) (Linz)
-- [Lamie](https://www.linkedin.com/company/lamie-direkt/) (Linz)
+- [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all)
+- [Blockpit](https://www.linkedin.com/company/blockpit/)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
-- [Tractive](https://www.linkedin.com/company/tractive) (Linz)
+- **[KEBA](https://www.linkedin.com/company/keba-group)**
+- [Lamie](https://www.linkedin.com/company/lamie-direkt/)
+- **[Life Radio](https://www.linkedin.com/company/liferadio/)**
+- **[Lunik2](https://www.linkedin.com/company/lunik2-group/)**
+- **[netural](https://www.linkedin.com/company/netural-gmbh/)** 
+- [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/)
+- [OKTAV](https://www.linkedin.com/company/oktav-com) ⭐
+- [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/)
 - [presono](https://www.linkedin.com/company/presono/) (Pasching)
-- [SlideLizard](https://www.linkedin.com/company/slidelizard/) (Linz)
-- [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/) (Linz)
-- [Storyblok](https://www.linkedin.com/company/storyblok/) (Linz)
-- [Storyclash](https://www.linkedin.com/company/storyclash/) (Linz)
-- [Roomle](https://www.linkedin.com/company/roomle/) (Linz)
-- [Lunik2](https://www.linkedin.com/company/lunik2-group/) (Linz)
-- [REICHLUNDPARTNER Digital](https://www.linkedin.com/company/rupdigital/) (Linz)
-- [Life Radio](https://www.linkedin.com/company/liferadio/) (Linz)
-- [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/) (Linz)
-- [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/) (Linz)
-- [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all) (Linz)
+- **[REICHLUNDPARTNER Digital](https://www.linkedin.com/company/rupdigital/)**
+- [Roomle](https://www.linkedin.com/company/roomle/)
 - [Rosenbauer](https://www.linkedin.com/company/rosenbauer-group/) (Leonding)
+- [SlideLizard](https://www.linkedin.com/company/slidelizard/)
+- [Storyblok](https://www.linkedin.com/company/storyblok/)
+- [Storyclash](https://www.linkedin.com/company/storyclash/)
+- [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/)
+- [Tractive](https://www.linkedin.com/company/tractive)
 
 ### Salzburg
 
-- [Salzburg Research](https://www.linkedin.com/company/salzburg-research) (Salzburg)
-- [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/) (Salzburg)
-- [pixelart](https://www.linkedin.com/company/pixelart-gmbh/) (Bergheim)
-- [Porsche](https://www.linkedin.com/company/porsche-holding) (Salzburg)
-- [KISKA](https://www.linkedin.com/company/kiska) (Salzburg)
-- [Solid & Bold](https://www.linkedin.com/company/solidbold/) (Salzburg)
+- [KISKA](https://www.linkedin.com/company/kiska)
+- **[pixelart](https://www.linkedin.com/company/pixelart-gmbh/)** (Bergheim)
+- [Porsche](https://www.linkedin.com/company/porsche-holding)
+- [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/)
+- [Salzburg Research](https://www.linkedin.com/company/salzburg-research)
+- [Solid & Bold](https://www.linkedin.com/company/solidbold/)
 
 ### Vienna
 
-- [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/) (Vienna)
-- [Journi](https://www.linkedin.com/company/journiapp/) (Vienna)
-- [Speechify](https://www.linkedin.com/company/speechifyinc/) (Vienna)
-- [adesso Austria](https://www.linkedin.com/company/adesso-austria-gmbh/) (Vienna)
-- [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/) (Vienna)
+- [adesso Austria](https://www.linkedin.com/company/adesso-austria-gmbh/)
 - [BIPA](https://www.linkedin.com/company/bipaparfumierengesellschaftmbh/) (Wiener Neudorf)
-- [University of Vienna](https://www.linkedin.com/school/univienna/) (Vienna)
-- [WienIT](https://www.linkedin.com/company/wienit/life/9f134e73-76b6-42bd-a83c-618b705ab6c8/) (Vienna)
-- [woom](https://www.linkedin.com/company/woombikes/) (Vienna)
-- [fonio.ai](https://www.linkedin.com/company/fonio-ai/) (Vienna)
-- [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/) (Vienna)
-- [hokify](https://www.linkedin.com/company/hokify/) (Vienna)
-- [world4you](https://www.linkedin.com/company/world4you/) (Vienna)
-- [Functn](https://www.linkedin.com/company/functn/) (Vienna)
-- [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/) (Vienna)
-- [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/) (Vienna)
-- [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/) (Vienna)
-- [refurbed](https://www.linkedin.com/company/refurbed/) (Vienna)
-- [mySugr](https://www.linkedin.com/company/mysugr/) (Vienna)
+- [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/)
+- [fonio.ai](https://www.linkedin.com/company/fonio-ai/)
+- [Functn](https://www.linkedin.com/company/functn/)
+- [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/)
+- [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/)
+- [hokify](https://www.linkedin.com/company/hokify/)
+- [Journi](https://www.linkedin.com/company/journiapp/)
+- [mySugr](https://www.linkedin.com/company/mysugr/)
+- [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/)
+- [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/)
+- [refurbed](https://www.linkedin.com/company/refurbed/)
+- [Speechify](https://www.linkedin.com/company/speechifyinc/)
+- [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/)
+- [University of Vienna](https://www.linkedin.com/school/univienna/)
+- [WienIT](https://www.linkedin.com/company/wienit/life/9f134e73-76b6-42bd-a83c-618b705ab6c8/)
+- [woom](https://www.linkedin.com/company/woombikes/)
+- [world4you](https://www.linkedin.com/company/world4you/)
 
 ### Remaining Austria
 
-- [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels)
-- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
+- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
+- [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
+- [Chargeprice](https://www.linkedin.com/company/chargeprice/) (Graz)
+- [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
-- [RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/) (Tumeltsham)
+- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen) 
+- [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels) ⭐
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
-- [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
-- [Chargeprice](https://www.linkedin.com/company/chargeprice/) (Graz)
+- **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
 - [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
-- [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
-- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
+
+
 
 ### Germany
 
-- [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e/) (Berlin)
 - [brightside Studio](https://www.linkedin.com/company/brightside-berlin/) (Berlin)
+- [CrazyLabs](https://www.linkedin.com/company/crazylabs) (Berlin)
 - [dexter health](https://www.linkedin.com/company/dexter-health/) (Köln)
 - [Louco](https://www.linkedin.com/company/loucoapp/) (Frankfurt)
-- [CrazyLabs](https://www.linkedin.com/company/crazylabs) (Berlin)
-- [RAVE.SPACE](https://www.linkedin.com/company/ravespaceio/) (Berlin)
+- **[RAVE.SPACE](https://www.linkedin.com/company/ravespaceio/)** (Berlin)
+- [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e/) (Berlin)
 
 ### Europe
 
 - [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund)
-- [Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
-- [Mobypark](https://www.linkedin.com/company/mobypark/) (Amsterdam)
+- **[Mobypark](https://www.linkedin.com/company/mobypark/)** (Amsterdam)
 - [Wolt](https://www.linkedin.com/company/wolt-oy/) (Helsinki, Stockholm, Berlin, Barcelona)
+- [Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
 
