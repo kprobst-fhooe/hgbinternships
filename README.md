@@ -11,6 +11,11 @@ Over the past few years, I have compiled this guide based on my own experiences 
 **Be prepared that many companies will take time to reply, or will not reply at all to your application.** \
 **If they haven't replied to your application after 3-4 weeks or so, don't hesitate to send them a gentle reminder.**
 
+Within your application journey, I can furthermore recommend the following:
+
+- start with creating a professional CV and portfolio that highlight your experience
+- have all this represented in a [professional LinkedIn profile](https://www.linkedin.com/help/linkedin/answer/a554351), which not only helps you find companies in the job offers, but also companies finding YOU
+
 
 ## Internship Offers
 
