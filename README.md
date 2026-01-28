@@ -46,7 +46,9 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
 - **[KEBA](https://www.linkedin.com/company/keba-group)**
 - [Lamie](https://www.linkedin.com/company/lamie-direkt/)
+- [Land Oberösterreich](https://www.linkedin.com/company/amt-der-o-landesregierung/)
 - **[Life Radio](https://www.linkedin.com/company/liferadio/)**
+- [Linz Tourismus](https://www.linkedin.com/company/linz-tourismus/)
 - **[Lunik2](https://www.linkedin.com/company/lunik2-group/)**
 - **[netural](https://www.linkedin.com/company/netural-gmbh/)** 
 - [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/)
@@ -59,6 +61,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [SlideLizard](https://www.linkedin.com/company/slidelizard/)
 - [Storyblok](https://www.linkedin.com/company/storyblok/)
 - [Storyclash](https://www.linkedin.com/company/storyclash/)
+- [teamecho](https://www.linkedin.com/company/teamecho-gmbh/) 
 - [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/)
 - [Tractive](https://www.linkedin.com/company/tractive)
 
@@ -68,7 +71,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - **[pixelart](https://www.linkedin.com/company/pixelart-gmbh/)** (Bergheim)
 - [Porsche](https://www.linkedin.com/company/porsche-holding)
 - [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/)
-- [Salzburg Research](https://www.linkedin.com/company/salzburg-research)
+- [Salzburg Research](https://www.linkedin.com/company/salzburg-research) ⭐
 - [Solid & Bold](https://www.linkedin.com/company/solidbold/)
 
 ### Vienna
@@ -101,13 +104,12 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
-- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen) 
+- [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
+- [MED-EL](https://www.linkedin.com/company/med-el/) (Innsbruck)
 - [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels) ⭐
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 - **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
 - [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
-
-
 
 ### Germany
 
