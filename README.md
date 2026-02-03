@@ -21,7 +21,8 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
-- [Software UX Intern, Logitech, Ireland](https://www.linkedin.com/jobs/view/4366079025)
+- [E-Commerce Design & UX Intern, Philips, Eindhoven](https://www.linkedin.com/jobs/view/4366838886)
+- [Software UX Intern, Logitech, Cork](https://www.linkedin.com/jobs/view/4366079025)
 - [Praktikum UI/UX Design, Bosch, Munich](https://www.linkedin.com/jobs/view/4321054839)
 - [Working Student UX/UI Design, 433, Amsterdam](https://www.linkedin.com/jobs/view/4365391457)
 - [UX Design Intern, Liebherr, Ulm](https://www.linkedin.com/jobs/view/4365843451)
@@ -133,4 +134,5 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Wolt](https://www.linkedin.com/company/wolt-oy/) (Helsinki, Stockholm, Berlin, Barcelona)
 - [Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
 - [Logitech](https://www.linkedin.com/company/logitech/life/09429bce-65f0-41c9-8998-ab9706050f04/) (Cork, London, Lausanne)
+- [Philips](https://www.linkedin.com/company/philips/life/2f918275-7c5c-4e78-93fe-c06e3f349810/)( (Einhoven, Lisboa, Hamburg)
 
