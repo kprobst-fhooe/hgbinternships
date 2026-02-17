@@ -57,6 +57,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - **[Life Radio](https://www.linkedin.com/company/liferadio/)**
 - [Linz Tourismus](https://www.linkedin.com/company/linz-tourismus/)
 - **[Lunik2](https://www.linkedin.com/company/lunik2-group/)**
+- **[LX Media](https://www.linkedin.com/company/lx-media-gmbh/)**
 - **[netural](https://www.linkedin.com/company/netural-gmbh/)** 
 - [Ohana](https://www.linkedin.com/company/ohana-software-gmbh/)
 - [OKTAV](https://www.linkedin.com/company/oktav-com) ⭐
