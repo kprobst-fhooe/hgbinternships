@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Working Student / Intern focused on UX/UI Design, Alago, Munich](https://www.linkedin.com/jobs/view/4359554292/)
 - [E-Commerce Design & UX Intern, Philips, Eindhoven](https://www.linkedin.com/jobs/view/4366838886)
 - [Software UX Intern, Logitech, Cork](https://www.linkedin.com/jobs/view/4366079025)
 - [Praktikum UI/UX Design, Bosch, Munich](https://www.linkedin.com/jobs/view/4321054839)
@@ -93,6 +94,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/)
 - [hokify](https://www.linkedin.com/company/hokify/)
 - [Journi](https://www.linkedin.com/company/journiapp/)
+- [Mimo](https://www.linkedin.com/school/mimo/)
 - [mySugr](https://www.linkedin.com/company/mysugr/)
 - [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/)
 - [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/)
@@ -121,6 +123,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 ### Germany
 
+- [alago](https://www.linkedin.com/company/alago-ai/) (Munich)
 - [brightside Studio](https://www.linkedin.com/company/brightside-berlin/) (Berlin)
 - [CrazyLabs](https://www.linkedin.com/company/crazylabs) (Berlin)
 - [dexter health](https://www.linkedin.com/company/dexter-health/) (Köln)
