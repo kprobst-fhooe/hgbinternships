@@ -21,6 +21,10 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Werkstudent UX/UI, Mercedes, Stuttgart](https://www.linkedin.com/jobs/view/4380445531)
+- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4381112016)
+- [User Experience Research Intern, Kramp, Utrecht](https://www.linkedin.com/jobs/view/4381461958)
+- [UX/UI Internship, Babylon, Dublin](https://www.linkedin.com/jobs/view/4381743649)
 - [User Experience Intern, EDL, Copenhagen](https://www.linkedin.com/jobs/view/4378752343)
 - [Working Student / Intern focused on UX/UI Design, Alago, Munich](https://www.linkedin.com/jobs/view/4359554292/)
 - [E-Commerce Design & UX Intern, Philips, Eindhoven](https://www.linkedin.com/jobs/view/4366838886)
@@ -34,7 +38,6 @@ The following list contains specific offers for internships, which may be outdat
 - [UX Design and Research Intern, Team Viewer, Göppingen](https://www.linkedin.com/jobs/view/4359455733/)
 - [Internship UX Design, Braun, Tuttlingen](https://www.linkedin.com/jobs/view/4349519923/)
 - [Internship UX/UI Design, Louco, Frankfurt](https://www.linkedin.com/jobs/view/4349923662/)
-- [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4296209872/)
 
 
 ## Company List
