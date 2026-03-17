@@ -99,6 +99,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Hello Werbeagentur](https://www.linkedin.com/company/hello-werbeagentur/)
 - [hokify](https://www.linkedin.com/company/hokify/)
 - [Journi](https://www.linkedin.com/company/journiapp/)
+- [MediaPrint](https://www.linkedin.com/company/mediaprint-zeitungs-und-zeitschriftenverlag-ges-m-b-h-co-kg/)
 - [Mimo](https://www.linkedin.com/school/mimo/)
 - [mySugr](https://www.linkedin.com/company/mysugr/)
 - [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/)
