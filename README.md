@@ -81,6 +81,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 ### Salzburg
 
 - [KISKA](https://www.linkedin.com/company/kiska)
+- [LOOP](https://www.linkedin.com/company/loop-new-media-gmbh/)
 - **[pixelart](https://www.linkedin.com/company/pixelart-gmbh/)** (Bergheim)
 - [Porsche](https://www.linkedin.com/company/porsche-holding)
 - [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/)
