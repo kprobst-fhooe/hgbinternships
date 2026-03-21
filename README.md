@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [UX/UI Working Student, Mercedes.io, Stuttgart](https://www.linkedin.com/jobs/view/4382433805/)
 - [Werkstudent UX/UI, Mercedes, Stuttgart](https://www.linkedin.com/jobs/view/4380445531)
 - [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4381112016)
 - [User Experience Research Intern, Kramp, Utrecht](https://www.linkedin.com/jobs/view/4381461958)
