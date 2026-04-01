@@ -95,6 +95,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 - [adesso Austria](https://www.linkedin.com/company/adesso-austria-gmbh/)
 - [BIPA](https://www.linkedin.com/company/bipaparfumierengesellschaftmbh/) (Wiener Neudorf)
+- [Bitmovin](https://www.linkedin.com/company/bitmovin/)
 - [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/)
 - [fonio.ai](https://www.linkedin.com/company/fonio-ai/)
 - [Functn](https://www.linkedin.com/company/functn/)
@@ -127,6 +128,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [MED-EL](https://www.linkedin.com/company/med-el/) (Innsbruck)
 - [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels) ⭐
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
+- [P8 Marketing](https://www.linkedin.com/company/p8-marketing/) (Innsbruck)
 - **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
 - [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
 
