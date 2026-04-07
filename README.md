@@ -83,6 +83,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 ### Salzburg
 
+- [Hirelight EB Consulting](https://www.linkedin.com/company/hirelight-eb-consulting)
 - [KISKA](https://www.linkedin.com/company/kiska)
 - [LOOP](https://www.linkedin.com/company/loop-new-media-gmbh/)
 - **[pixelart](https://www.linkedin.com/company/pixelart-gmbh/)** (Bergheim)
