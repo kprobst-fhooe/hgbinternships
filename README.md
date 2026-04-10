@@ -72,6 +72,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Pulpmedia](https://www.linkedin.com/company/pulpmedia-gmbh/)
 - [presono](https://www.linkedin.com/company/presono/) (Pasching)
 - **[REICHLUNDPARTNER Digital](https://www.linkedin.com/company/rupdigital/)**
+- [Responsive Spaces](https://www.linkedin.com/company/responsive-spaces)
 - [Roomle](https://www.linkedin.com/company/roomle/)
 - [Rosenbauer](https://www.linkedin.com/company/rosenbauer-group/) (Leonding)
 - [SlideLizard](https://www.linkedin.com/company/slidelizard/)
