@@ -25,7 +25,7 @@ The following list contains specific offers for internships, which may be outdat
 - [UX/UI Intern, XR Solutions, Stckholm](https://www.linkedin.com/jobs/view/4401610335/)
 - [User Experience Internship, above, Stockholm](https://www.linkedin.com/jobs/view/4395032720/)
 - [UX Design Intern, Versuni, Amsterdam](https://www.linkedin.com/jobs/view/4309025606)
-- [UX Design Intern, Logitech, Cork](https://www.linkedin.com/jobs/view/4373803183}
+- [UX Design Intern, Logitech, Cork](https://www.linkedin.com/jobs/view/4373803183)
 - [Praktikum Product / UX Design, Sorbit, Cologne](https://www.linkedin.com/jobs/view/4386687689)
 - [Internship: UX Design Intern, Versuni, Amsterdam](https://www.linkedin.com/jobs/view/4309025606)
 - [UX/UI Working Student, Mercedes.io, Stuttgart](https://www.linkedin.com/jobs/view/4382433805/)
