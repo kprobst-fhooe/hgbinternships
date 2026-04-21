@@ -56,6 +56,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 ### Hagenberg
 
+- [BLUE-ZONE Smart Products](https://www.linkedin.com/company/blue-zone-smartproducts/)
 - [RISC Software](https://www.linkedin.com/company/risc-software-gmbh/)
 - **[Porsche Informatik](https://www.linkedin.com/company/porsche-informatik-gmbh/)**
 
@@ -138,6 +139,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [P8 Marketing](https://www.linkedin.com/company/p8-marketing/) (Innsbruck)
 - **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
 - [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
+- [XXXLDigital](https://www.linkedin.com/company/xxxldigital/) (Wels)
 
 ### Germany
 
