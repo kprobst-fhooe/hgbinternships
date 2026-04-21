@@ -87,6 +87,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [teamecho](https://www.linkedin.com/company/teamecho-gmbh/) 
 - [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/)
 - [Tractive](https://www.linkedin.com/company/tractive)
+- [Ubitec](https://www.linkedin.com/company/ubitec/)
 
 ### Salzburg
 
@@ -133,6 +134,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
 - [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
+- [Loxone](https://www.linkedin.com/company/loxone-electronics/) (Kollerschlag)
 - [MED-EL](https://www.linkedin.com/company/med-el/) (Innsbruck)
 - [Mutor](https://www.linkedin.com/company/mutor) (Thalheim bei Wels) ⭐
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
