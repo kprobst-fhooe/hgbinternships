@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Experience Innovation Internship, Above, Stockholm](https://www.linkedin.com/jobs/view/4406639447/)
 - [Praktikum UX/UI Digitale Plattformen & Technologie, Audi, Ingolstadt](https://www.linkedin.com/jobs/view/4403217292/)
 - [UX Intern, Kiska, Salzburg](https://www.linkedin.com/jobs/view/4402988258/)
 - [UX/UI Intern, XR Solutions, Stckholm](https://www.linkedin.com/jobs/view/4401610335/)
