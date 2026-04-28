@@ -108,6 +108,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [BIPA](https://www.linkedin.com/company/bipaparfumierengesellschaftmbh/) (Wiener Neudorf)
 - [Bitmovin](https://www.linkedin.com/company/bitmovin/)
 - [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/)
+- [Erste Digital](https://www.linkedin.com/company/erstedigital/jobs/)
 - [fonio.ai](https://www.linkedin.com/company/fonio-ai/)
 - [Functn](https://www.linkedin.com/company/functn/)
 - [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/)
@@ -117,6 +118,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [MediaPrint](https://www.linkedin.com/company/mediaprint-zeitungs-und-zeitschriftenverlag-ges-m-b-h-co-kg/)
 - [Mimo](https://www.linkedin.com/school/mimo/)
 - [mySugr](https://www.linkedin.com/company/mysugr/)
+- [nyra health](https://www.linkedin.com/company/nyrahealth/)
 - [ÖBB](https://www.linkedin.com/company/obb/life/bdf6893d-f5af-4e9d-add5-c8fe94364fd5/)
 - [Österreichische Post](https://www.linkedin.com/company/unserepost/life/968341ed-2aba-4a2d-8fce-b83724f942f7/)
 - [refurbed](https://www.linkedin.com/company/refurbed/)
@@ -129,7 +131,8 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 ### Remaining Austria
 
-- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf, Tirol)
+- [bergfex](https://www.linkedin.com/company/bergfex-gmbh/) (Graz)
+- [BORA](https://www.linkedin.com/company/boracookingsystems/) (Niederndorf)
 - [Blum](https://www.linkedin.com/company/blumgroup/life/57bb5839-fed9-4f4b-b66a-c8c991917c81/) (Höchst)
 - [Chargeprice](https://www.linkedin.com/company/chargeprice/) (Graz)
 - [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
