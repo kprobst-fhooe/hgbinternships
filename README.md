@@ -141,7 +141,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
 - [Loxone](https://www.linkedin.com/company/loxone-electronics/) (Kollerschlag)
 - [MED-EL](https://www.linkedin.com/company/med-el/) (Innsbruck)
-- **[Mutor]** (https://www.linkedin.com/company/mutor) (Thalheim bei Wels) ⭐
+- **[Mutor](https://www.linkedin.com/company/mutor)** (Thalheim bei Wels) ⭐
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 - [P8 Marketing](https://www.linkedin.com/company/p8-marketing/) (Innsbruck)
 - **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
