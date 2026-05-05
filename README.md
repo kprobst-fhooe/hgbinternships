@@ -21,15 +21,15 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [UX/UI Design Praktikum, derstreet-experience, Munich](https://www.linkedin.com/jobs/view/4406451997)
+- [UX Design Intern, Versuni, Amsterdam](https://www.linkedin.com/jobs/view/4309025606)
 - [Experience Innovation Internship, Above, Stockholm](https://www.linkedin.com/jobs/view/4406639447/)
 - [Praktikum UX/UI Digitale Plattformen & Technologie, Audi, Ingolstadt](https://www.linkedin.com/jobs/view/4403217292/)
 - [UX Intern, Kiska, Salzburg](https://www.linkedin.com/jobs/view/4402988258/)
-- [UX/UI Intern, XR Solutions, Stckholm](https://www.linkedin.com/jobs/view/4401610335/)
+- [UX/UI Intern, XR Solutions, Stockholm](https://www.linkedin.com/jobs/view/4401610335/)
 - [User Experience Internship, above, Stockholm](https://www.linkedin.com/jobs/view/4395032720/)
-- [UX Design Intern, Versuni, Amsterdam](https://www.linkedin.com/jobs/view/4309025606)
 - [UX Design Intern, Logitech, Cork](https://www.linkedin.com/jobs/view/4373803183)
 - [Praktikum Product / UX Design, Sorbit, Cologne](https://www.linkedin.com/jobs/view/4386687689)
-- [Internship: UX Design Intern, Versuni, Amsterdam](https://www.linkedin.com/jobs/view/4309025606)
 - [UX/UI Working Student, Mercedes.io, Stuttgart](https://www.linkedin.com/jobs/view/4382433805/)
 - [Werkstudent UX/UI, Mercedes, Stuttgart](https://www.linkedin.com/jobs/view/4380445531)
 - [Praktikant UX/UI Design, BMW, Munich](https://www.linkedin.com/jobs/view/4381112016)
