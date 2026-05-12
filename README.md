@@ -109,6 +109,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Bitmovin](https://www.linkedin.com/company/bitmovin/)
 - [Dedalus](https://www.linkedin.com/company/dedalus-group/life/3dc38d99-956b-4be4-8257-1d0a7ebde7e4/)
 - [Erste Digital](https://www.linkedin.com/company/erstedigital/jobs/)
+- [FireStart](https://www.linkedin.com/company/firestart/)
 - [fonio.ai](https://www.linkedin.com/company/fonio-ai/)
 - [Functn](https://www.linkedin.com/company/functn/)
 - [GoStudent](https://www.linkedin.com/company/gostudent-gmbh/)
