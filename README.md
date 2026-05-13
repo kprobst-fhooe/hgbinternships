@@ -69,6 +69,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all)
 - [Blockpit](https://www.linkedin.com/company/blockpit/)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
+- [Inola](https://www.linkedin.com/company/inola-gmbh) (Pasching) ⭐
 - **[KEBA](https://www.linkedin.com/company/keba-group)**
 - [Lamie](https://www.linkedin.com/company/lamie-direkt/)
 - [Land Oberösterreich](https://www.linkedin.com/company/amt-der-o-landesregierung/)
