@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Praktikum in UX Design & Branding, DigitalBegleiter, Berlin](https://www.linkedin.com/jobs/view/4412256595)
 - [UX Design Intern Interaction Design, amazon, Luxembourg](https://www.linkedin.com/jobs/view/4412466450)
 - [Praktikant:in UX/UI-Design, nerou, Berlin](https://www.linkedin.com/jobs/view/4412760586)
 - [UX/UI Design Praktikum, derstreet-experience, Munich](https://www.linkedin.com/jobs/view/4406451997)
@@ -154,13 +155,14 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 
 ### Germany
 
-- [alago](https://www.linkedin.com/company/alago-ai/) (Munich)
-- [brightside Studio](https://www.linkedin.com/company/brightside-berlin/) (Berlin)
+- [alago](https://www.linkedin.com/company/alago-ai) (Munich)
+- [brightside Studio](https://www.linkedin.com/company/brightside-berlin) (Berlin)
 - [CrazyLabs](https://www.linkedin.com/company/crazylabs) (Berlin)
-- [dexter health](https://www.linkedin.com/company/dexter-health/) (Köln)
+- [dexter health](https://www.linkedin.com/company/dexter-health) (Köln)
+- [DigitalBegleiter](https://www.linkedin.com/company/digitalbegleiter) (Berlin)
 - [Louco](https://www.linkedin.com/company/loucoapp/) (Frankfurt)
 - **[RAVE.SPACE](https://www.linkedin.com/company/ravespaceio/)** (Berlin)
-- [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e/) (Berlin)
+- [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e) (Berlin)
 
 ### Europe
 
