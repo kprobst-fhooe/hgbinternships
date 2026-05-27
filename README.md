@@ -21,6 +21,7 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Intern Design UI/UX, 21TORR, Stuttgart](https://www.linkedin.com/jobs/view/4414307147)
 - [Praktikum in UX Design & Branding, DigitalBegleiter, Berlin](https://www.linkedin.com/jobs/view/4412256595)
 - [UX Design Intern Interaction Design, amazon, Luxembourg](https://www.linkedin.com/jobs/view/4412466450)
 - [Praktikant:in UX/UI-Design, nerou, Berlin](https://www.linkedin.com/jobs/view/4412760586)
