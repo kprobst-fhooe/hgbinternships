@@ -21,8 +21,9 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Intern UX/UI Designer, Youwe, Amsterdam](https://www.linkedin.com/jobs/view/4426294807)
 - [UX Intern, Kiska, Salzburg](https://www.linkedin.com/jobs/view/4402988258)
-- - [UX Intern, TomTom, Amsterdam](https://www.linkedin.com/jobs/view/4424458237)
+- [UX Intern, TomTom, Amsterdam](https://www.linkedin.com/jobs/view/4424458237)
 - [Praktikant User Experience und Interaction Design, BMW Group, Munich](https://www.linkedin.com/jobs/view/4379880091)
 - [UX Research Intern, amazon, Madrid](https://www.linkedin.com/jobs/view/4402067590)
 - [Intern Design UI/UX, 21TORR, Stuttgart](https://www.linkedin.com/jobs/view/4414307147)
