@@ -80,6 +80,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Land Oberösterreich](https://www.linkedin.com/company/amt-der-o-landesregierung/)
 - **[Life Radio](https://www.linkedin.com/company/liferadio/)**
 - [Linz Tourismus](https://www.linkedin.com/company/linz-tourismus/)
+- **[LM.Media](https://www.linkedin.com/company/lm-media-studio)**
 - **[Lunik2](https://www.linkedin.com/company/lunik2-group/)**
 - **[LX Media](https://www.linkedin.com/company/lx-media-gmbh/)**
 - **[netural](https://www.linkedin.com/company/netural-gmbh/)** 
