@@ -175,6 +175,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund)
 - [Logitech](https://www.linkedin.com/company/logitech/life/09429bce-65f0-41c9-8998-ab9706050f04/) (Cork, London, Lausanne)
 - **[Mobypark](https://www.linkedin.com/company/mobypark/)** (Amsterdam)
+- [Netflix](https://www.linkedin.com/company/netflix) (Helsinki)
 - [Philips](https://www.linkedin.com/company/philips/life/2f918275-7c5c-4e78-93fe-c06e3f349810/)( (Einhoven, Lisboa, Hamburg)
 - [Wolt](https://www.linkedin.com/company/wolt-oy/) (Helsinki, Stockholm, Berlin, Barcelona)
 - [Wonderful Sound for All](https://www.linkedin.com/company/wonderfulsoundforall/life/ad0862d7-3179-4079-a2a0-cac6e5ac6122/) (Lynge)
