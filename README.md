@@ -97,7 +97,6 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Storyclash](https://www.linkedin.com/company/storyclash/)
 - [teamecho](https://www.linkedin.com/company/teamecho-gmbh/) 
 - [Team Viewer](https://www.linkedin.com/company/teamviewer/life/1fecb418-5552-4160-9497-9c9feeba64f0/)
-- [Tractive](https://www.linkedin.com/company/tractive)
 - [Ubitec](https://www.linkedin.com/company/ubitec/)
 
 ### Salzburg
@@ -155,6 +154,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [nomic Werbeagentur](https://www.linkedin.com/company/nomic-at)
 - [Nuki](https://www.linkedin.com/company/nuki-home-solutions-gmbh/) (Graz)
 - [P8 Marketing](https://www.linkedin.com/company/p8-marketing/) (Innsbruck)
+- [Planet](https://www.linkedin.com/company/planet-labs) (Graz)
 - **[RZL Software](https://www.linkedin.com/company/rzlsoftwaregmbh/)** (Tumeltsham)
 - [TimeTac](https://www.linkedin.com/company/timetac/) (Graz)
 - [XXXLDigital](https://www.linkedin.com/company/xxxldigital/) (Wels)
