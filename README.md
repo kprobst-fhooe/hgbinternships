@@ -72,6 +72,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 ### Linz
 
 - [Ahoi Kapptn!](https://www.linkedin.com/company/ahoi-kapptn/posts/?feedView=all)
+- **[ARTGROUP](https://www.linkedin.com/company/artgroup-advertising)**
 - [Blockpit](https://www.linkedin.com/company/blockpit/)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
 - [Inola](https://www.linkedin.com/company/inola-gmbh) (Pasching) ⭐
