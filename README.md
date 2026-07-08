@@ -78,7 +78,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Inola](https://www.linkedin.com/company/inola-gmbh) (Pasching) ⭐
 - [karriere.at](https://www.linkedin.com/company/karriere-at)
 - **[KEBA](https://www.linkedin.com/company/keba-group)**
-- [Lamie](https://www.linkedin.com/company/lamie-direkt/)
+- [Lamie](https://www.linkedin.com/company/lamie-direkt)
 - [Land Oberösterreich](https://www.linkedin.com/company/amt-der-o-landesregierung/)
 - **[Life Radio](https://www.linkedin.com/company/liferadio/)**
 - [LingoHub](https://www.linkedin.com/company/lingohub)
@@ -112,6 +112,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Red Bull Media House](https://www.linkedin.com/company/red-bull-media-house-publishing/)
 - [Salzburg Research](https://www.linkedin.com/company/salzburg-research) ⭐
 - [Solid & Bold](https://www.linkedin.com/company/solidbold/)
+- [SPAR Österreich](https://www.linkedin.com/company/spar-oesterreich)
 
 ### Vienna
 
@@ -151,6 +152,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [citiesapps](https://www.linkedin.com/company/citiesapps/) (Graz)
 - [ENGEL](https://www.linkedin.com/company/engel-global/) (Schwertberg)
 - [Fronius](https://www.linkedin.com/company/fronius-oesterreich/life/82859c04-5379-4fd9-bea5-6b339696a517/) (Wels)
+- [HOFER Österreich](https://www.linkedin.com/company/hofer-kg) (Sattledt)
 - [KTM](https://www.linkedin.com/company/ktm-ag) (Mattighofen)
 - [Loxone](https://www.linkedin.com/company/loxone-electronics/) (Kollerschlag)
 - [MED-EL](https://www.linkedin.com/company/med-el/) (Innsbruck)
