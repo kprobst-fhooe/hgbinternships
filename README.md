@@ -136,6 +136,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Tante Emma](https://www.linkedin.com/company/tante-emma-werbeagentur/)
 - [University of Vienna](https://www.linkedin.com/school/univienna/)
 - [WienIT](https://www.linkedin.com/company/wienit/life/9f134e73-76b6-42bd-a83c-618b705ab6c8/)
+- [willhaben](https://www.linkedin.com/company/willhaben)
 - [woom](https://www.linkedin.com/company/woombikes/)
 - [world4you](https://www.linkedin.com/company/world4you/)
 
