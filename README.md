@@ -76,10 +76,12 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Blockpit](https://www.linkedin.com/company/blockpit/)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
 - [Inola](https://www.linkedin.com/company/inola-gmbh) (Pasching) ⭐
+- [karriere.at](https://www.linkedin.com/company/karriere-at)
 - **[KEBA](https://www.linkedin.com/company/keba-group)**
 - [Lamie](https://www.linkedin.com/company/lamie-direkt/)
 - [Land Oberösterreich](https://www.linkedin.com/company/amt-der-o-landesregierung/)
 - **[Life Radio](https://www.linkedin.com/company/liferadio/)**
+- [LingoHub](https://www.linkedin.com/company/lingohub)
 - [Linz Tourismus](https://www.linkedin.com/company/linz-tourismus/)
 - **[LM.Media](https://www.linkedin.com/company/lm-media-studio)**
 - **[Lunik2](https://www.linkedin.com/company/lunik2-group/)**
