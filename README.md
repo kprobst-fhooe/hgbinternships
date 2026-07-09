@@ -113,6 +113,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [Salzburg Research](https://www.linkedin.com/company/salzburg-research) ⭐
 - [Solid & Bold](https://www.linkedin.com/company/solidbold/)
 - [SPAR Österreich](https://www.linkedin.com/company/spar-oesterreich)
+- [winkk](https://www.linkedin.com/company/winkk-software)
 
 ### Vienna
 
