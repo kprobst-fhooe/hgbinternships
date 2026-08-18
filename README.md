@@ -21,6 +21,8 @@ Within your application journey, I can furthermore recommend the following:
 
 The following list contains specific offers for internships, which may be outdated by now but still be reopened at some point:
 
+- [Internship Experience Design, FLUID Design, Munich](https://www.linkedin.com/jobs/view/4452215976)
+- [Working Student - UX Design and Research, Infineon, Munich](https://www.linkedin.com/jobs/view/4436328817)
 - [Intern UX/UI Designer, Youwe, Amsterdam](https://www.linkedin.com/jobs/view/4426294807)
 - [UX Intern, Kiska, Salzburg](https://www.linkedin.com/jobs/view/4402988258)
 - [UX Intern, TomTom, Amsterdam](https://www.linkedin.com/jobs/view/4424458237)
@@ -75,6 +77,7 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - **[ARTGROUP](https://www.linkedin.com/company/artgroup-advertising)**
 - [Blockpit](https://www.linkedin.com/company/blockpit/)
 - [hello again](https://www.linkedin.com/company/hello-again-gmbh) (Leonding)
+- [Hypo OOE](https://www.linkedin.com/company/hypo-ooe)
 - [Inola](https://www.linkedin.com/company/inola-gmbh) (Pasching) ⭐
 - [karriere.at](https://www.linkedin.com/company/karriere-at)
 - **[KEBA](https://www.linkedin.com/company/keba-group)**
@@ -174,11 +177,13 @@ Companies with recent MTD internships are indicated in **bold**, my personal fav
 - [dexter health](https://www.linkedin.com/company/dexter-health) (Köln)
 - [DigitalBegleiter](https://www.linkedin.com/company/digitalbegleiter) (Berlin)
 - [Louco](https://www.linkedin.com/company/loucoapp/) (Frankfurt)
+- [New Monday](https://www.linkedin.com/company/new-monday-design/) (Berlin)
 - **[RAVE.SPACE](https://www.linkedin.com/company/ravespaceio/)** (Berlin)
 - [Yazio](https://www.linkedin.com/company/yazio/life/d87becaa-5ea0-4f0e-81dd-40f07953f10e) (Berlin)
 
 ### Europe
 
+- [BeReal](https://www.linkedin.com/company/bereal-app/) (Paris)
 - [EDL](https://www.linkedin.com/company/edldesign/) (Copenhagen)
 - [LEGO](https://www.linkedin.com/company/lego-group/life/81a860d8-e0cb-4c9b-a482-3176acefbfb2/) (Billund)
 - [Logitech](https://www.linkedin.com/company/logitech/life/09429bce-65f0-41c9-8998-ab9706050f04/) (Cork, London, Lausanne)
